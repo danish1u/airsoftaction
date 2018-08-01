@@ -79,11 +79,11 @@ ul.social-links span {
     float: left;
 }
 .srch button{
-    background: #000000;
+    background: #2b2726;
     padding: 0px 7px 0 7px;
     line-height: 32px;
     color: #fff;
-    border: 3px solid #000;
+    border: 3px solid #2b2726;
     
 }
 .srch input{
@@ -94,12 +94,12 @@ ul.social-links span {
     padding-left:2px;
 }
 .rec {
-    background: black;
+    background: #2b2726;
     height: 45px;
 }
 
 .top{
-    background-color: Black;
+    background-color: #2b2726;
 }
 .dima {
     padding-top: 20px !important;
@@ -115,7 +115,7 @@ display: none;
 	width: 100%;
 	z-index: 10;
 	position:relative;
-	background: #010101;
+	background: #2b2726;
 }
 #nav:after {
 	content:"";
