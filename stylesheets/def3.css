@@ -30,7 +30,7 @@ table.gallery td.picture {
 table.gallery img {
 	border: 0;
 	vertical-align: top;
-	margin: 17px 0 0 0;
+	margin: 5px 0 0 0;
 	float: left;
 }
 table.gallery td.picture div.image {
