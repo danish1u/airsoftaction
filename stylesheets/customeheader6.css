@@ -754,6 +754,8 @@ text-align: center;
     .social1 ul li {
     list-style: none;
     float: left;
+margin-left: 23px;
+    margin-right: -27px;
     }
 
     .social1 ul.social-links {
