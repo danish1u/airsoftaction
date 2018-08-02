@@ -53,7 +53,7 @@ table.gallery div.ttl {
       text-decoration: none;
 }
 .details .ttl a:hover {
-    color: #ff7713;
+    color: #ff7713 !important;
 }
 table.gallery div.subtitle {
 	display: none;
