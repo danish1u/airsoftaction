@@ -751,13 +751,9 @@ text-align: center;
         letter-spacing: 1px;
     }
 
-    .social1 ul.inline-list>li,
-    ul.link-list>li {
+    .social1 ul li {
     list-style: none;
     float: left;
-    margin-right: 6px;
-    display: block;
-    margin-left: 0px !important;
     }
 
     .social1 ul.social-links {
@@ -773,7 +769,7 @@ text-align: center;
     .social1 .social-links a {
         color: #ffffff;
         margin-right: 14px;
-        font-size: 17px;
+        font-size: 20px;
     }
 
     .social2 {
