@@ -1,101 +1,9 @@
 body {
     overflow-x: hidden;
 }
-.carousel-control.left{
-	display:none !important;
-	}
-.carousel-control.right{
-	display:none !important;
-	}
-.carousel-indicators{
-	bottom:15px !important;
-}
-
-.autopart-bg{
-	clear:both;
-    background: url("https://raw.githubusercontent.com/danish1u/thegaragemiami/master/Wheel/autocare55.png") center top no-repeat;
-    min-height: 154px;
-}
-.autopart-bg h6{
-	    text-align: center;
-    font-family: 'Roboto Condensed', sans-serif;
-    color: #FFFFFF;
-    font-size: 35px;
-    font-weight: bold;
-    margin: 0px 0 0px 0;
-    text-transform: uppercase;
-    padding: 9px 0;
-}
-.thumb{
-}
-.thumb img{
-	margin:10px;
-}
-.thumb:hover{
-	transition:all 0.8s;
-	transform: scale(0.9,0.9);
-}
-.owl-theme .owl-controls .owl-buttons div {
-    color: #000 !important;
-    margin: -14px 0 0px 0px !important;
-    padding: 0px 5px !important;
-}
-
-.owl-controlls .owl-buttons div {
-    margin: 2px;
-    font-size: 30px;
-}
-
 .pst-banner {
-    margin-top: -16px !important;
+   /* margin-top: -16px !important;*/
 }
-
-#pstq {
-    display: inline-block;
-    background: #fff;
-}
-
-.pst-landingpage {
-    margin-top: -15px;
-    max-width: 1140px;
-    background: #fff;
-}
-
-.carousel3 {
-    max-width: 1140px;
-    margin: auto;
-    background: white;
-    padding-top: 1px;
-    padding-bottom: 20px;
-    padding-left: 3px;
-    padding-right: 3px;
-}
-
-.carousel3 h2 {
-    font-family: 'Roboto Condensed', sans-serif;
-    line-height: 2;
-    text-align: center !important;
-    font-size: 28px !important;
-    font-weight: 600 !important;
-    color: #273665 !important;
-    text-transform: uppercase !important;
-}
-
-.owl-carousel {
-    border: 1px solid #c1c1c1;
-}
-
-#owl-demo .item {
-    margin: 3px;
-}
-
-#owl-demo .item img {
-    display: block;
-    max-width: 200px;
-    height: 58px;
-    margin: auto;
-}
-
 /* menu effect start */
 .cl-effect-20 a {
 	line-height: 2em;
@@ -747,19 +655,7 @@ z-index:222222222;
    transition-delay: 0.3s;
 }
 /*categories hove css end*/
-.clear{
-	clear:both;
-}
-.related-pro .ecrousal { background:none !important; border:0!important;}
-.related-pro .ecrousal h6{ background:#fff!important; text-align:center!important; font-size:28px!important; font-weight:600!important; color:#273665!important; text-transform:uppercase!important;}
-.related-pro .itemlistings{ background:#fff; border:1px solid #dedede; margin:0 10px; padding:10px;}
-.related-pro .itemlistings .itmimg{ border:0 !important;}
-.related-pro .itemlistings span{ margin:10px 0;}
-.related-pro .itemlistings a.itm-a{ border-radius:0; background:#FFFFFF !important; color:#323232 !important; padding:2px 10px 0 10px; line-height:25px; font-size:12px; font-family:arial; font-weight:normal; transition:0.3s all  ease;}
-.related-pro .itemlistings a.itm-a:hover { background:#1d3768 !important; color:#fff !important;}
-.owl-buttons {
-    top: 40% !important;
-}
+
 /*-----------@media screen------------*/
 @media screen and (max-width:1080px){
 .headerbg{background:url("https://raw.githubusercontent.com/danish1u/thegaragemiami/master/Images/header-bga.png") center top no-repeat; margin:30px 0 0 0;}
@@ -812,26 +708,4 @@ z-index:222222222;
 	width:100%;
 }
 }
-@media screen and (max-width:400px){
-#level0{
-	width:20%;
-	height:60px;
-	}
-#level1{
-	width:20%;
-	height:60px;
-	}
-#level2{
-	width:20%;
-	height:60px;
-	}
-.owl-pagination{
-	display:none;
-	}
-.toptext p{
-	margin:0;
-	padding:10px 0 0 0;
-	font-family: Arial, sans-serif;
-	color:#5c5c5c !important;
-}
-}
+
