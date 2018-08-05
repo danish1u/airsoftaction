@@ -135,7 +135,7 @@ a.ppt img{ display:inline-block !important;}
 .hhhp:hover a.ppt{ top:45%;}
 /*menu effect end*/
 .categories{
-z-index:222222222;
+/*z-index:222222222;*/
  position:relative;
  text-align:center;
  margin:20px 0 0 0;
