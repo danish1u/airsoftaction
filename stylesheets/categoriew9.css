@@ -731,12 +731,12 @@ a.ppt img{ display:inline-block !important;}
 }
 @media screen and (max-width:968px){
 .headerbg{background:url("https://raw.githubusercontent.com/danish1u/thegaragemiami/master/Images/header-bga.png") center top no-repeat; margin:30px 0 0 0;}
-.view{max-width: 317px; margin: auto; padding: 5px;}
-.view2{max-width:317px; margin: auto; padding: 5px;}
-.view3{max-width:317px; margin: auto; padding: 5px;}
-.view4{max-width:317px; margin: auto; padding: 5px;}
-.view5{max-width:317px; margin: auto; padding: 5px;}
-.view6{max-width:317px; margin: auto; padding: 5px;}
+.view{max-width: 317px; margin: auto;}
+.view2{max-width:317px; margin: auto;}
+.view3{max-width:317px; margin: auto;}
+.view4{max-width:317px; margin: auto;}
+.view5{max-width:317px; margin: auto;}
+.view6{max-width:317px; margin: auto;}
 }
 
 @media screen and (max-width:768px){
