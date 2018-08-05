@@ -36,7 +36,7 @@ ul.inline-list, ul.link-list {
     float: none;
 }
 .account-links a {
-    color: #ff7713;
+    color: #ff7713 !important;
     opacity: 0.7;
 }
 .account-links  a:hover {
