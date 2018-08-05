@@ -138,7 +138,7 @@ body {
     background-position: center; transition:all 0.6s;}
 a.ppt{ position:absolute; top:-100%; z-index:99; width:100%; text-align:center; left:0; transition:all 0.9s;}
 a.ppt img{ display:inline-block !important;}
-.hhhp:hover .mask55{ bottom:0;}
+.hhhp:hover .mask55{ bottom:0; }
 .hhhp:hover .mask56{ bottom:0;}
 .hhhp:hover .mask57{ bottom:0;}
 .hhhp:hover .mask58{ bottom:0;}
@@ -731,12 +731,18 @@ a.ppt img{ display:inline-block !important;}
 }
 @media screen and (max-width:968px){
 .headerbg{background:url("https://raw.githubusercontent.com/danish1u/thegaragemiami/master/Images/header-bga.png") center top no-repeat; margin:30px 0 0 0;}
-.view{max-width: 317px; margin: auto;}
-.view2{max-width:317px; margin: auto;}
-.view3{max-width:317px; margin: auto;}
-.view4{max-width:317px; margin: auto;}
-.view5{max-width:317px; margin: auto;}
-.view6{max-width:317px; margin: auto;}
+.view{max-width: 317px; margin: auto;     margin-bottom: 10px;
+    padding: 1px;}
+.view2{max-width:317px; margin: auto;     margin-bottom: 10px;
+    padding: 1px;}
+.view3{max-width:317px; margin: auto;    margin-bottom: 10px;
+    padding: 1px;}
+.view4{max-width:317px; margin: auto;    margin-bottom: 10px;
+    padding: 1px;}
+.view5{max-width:317px; margin: auto;    margin-bottom: 10px;
+    padding: 1px;}
+.view6{max-width:317px; margin: auto;    margin-bottom: 10px;
+    padding: 1px;}
 }
 
 @media screen and (max-width:768px){
