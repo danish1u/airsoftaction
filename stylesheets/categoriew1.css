@@ -1,6 +1,10 @@
 body {
     overflow-x: hidden;
 }
+.carslove{
+	max-width: 1090px;
+    margin: auto;
+}
 .pst-banner {
    /* margin-top: -16px !important;*/
 }
@@ -144,7 +148,7 @@ z-index:222222222;
 .view {
    max-width:317px;
    width:100%;
-   margin:20px;
+   margin:22px;
    float: left;
    overflow: hidden;
    position: relative;
@@ -230,7 +234,7 @@ z-index:222222222;
 .view2 {
     max-width:317px;
     width:100%;
-    margin:20px;
+    margin:22px;
     float: left;
     overflow: hidden;
     position: relative;
@@ -316,7 +320,7 @@ z-index:222222222;
 .view3 {
     max-width:317px;
     width:100%;
-    margin:20px;
+    margin:22px;
     float: left;
     overflow: hidden;
     position: relative;
@@ -401,7 +405,7 @@ z-index:222222222;
 .view4 {
     max-width:317px;
     width:100%;
-    margin:20px;
+    margin:22px;
     float: left;
     overflow: hidden;
     position: relative;
@@ -486,7 +490,7 @@ z-index:222222222;
 .view5 {
     max-width:317px;
     width:100%;
-    margin:20px;
+    margin:22px;
     float: left;
     overflow: hidden;
     position: relative;
@@ -572,7 +576,7 @@ z-index:222222222;
 .view6 {
     max-width:317px;
     width:100%;
-    margin:20px;
+    margin:22px;
     float: left;
     overflow: hidden;
     position: relative;
