@@ -711,5 +711,9 @@ z-index:222222222;
 .view{
 	width:100%;
 }
+	
+.pst-banner #myCarousel .carousel-indicators{
+        bottom: -10px !important;
+    }
 }
 
